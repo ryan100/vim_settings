@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/aelinux/Documents/projects/sata-logger/working_dir/colibri_rfs/Colibri_VF_LinuxConsoleImageV2.6/rootfs'
+let g:netrw_dirhist_2='/home/aelinux/Documents/projects/sata-logger/working_dir/root_file_system/colibri_rfs/Colibri_VF_LinuxConsoleImageV2.6'
+let g:netrw_dirhist_3='/home/aelinux/Documents/projects/sata-logger/working_dir/kernel/linux-toradex_3.18'
+let g:netrw_dirhist_4='/home/aelinux/.vim/bundle'
+let g:netrw_dirhist_5='/home/aelinux/workspace/Smartlogger_V4_firmware_Linux_01072016/.git'
